@@ -1,0 +1,16 @@
+{
+  "name": "first-ts-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Passos para replicar este projeto\r ## 1. primeiro comando\r Setup Node.js package.json\r npm init -y\r ## 2. segundo comando",
+  "devDependencies": {
+    "@types/node": "^20.12.5",
+    "typescript": "^5.4.4"
+  }
+}
